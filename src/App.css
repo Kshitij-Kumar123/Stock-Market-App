@@ -1,0 +1,22 @@
+.canvas-container {
+  height: 50vh;
+  width: 80vw;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.line {
+  border: 2px solid red;
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
